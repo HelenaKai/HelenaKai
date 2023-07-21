@@ -1,7 +1,5 @@
-
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Helen</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend developer from Saint Petersburg</h3>
+#  Hi there, I'm Helen <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> 
+<h4 >Frontend developer from Saint Petersburg</h3>
 
 ---
 
@@ -14,7 +12,7 @@
  Для меня важно реализовать законченный цифровой продукт заказчику — стильный, лаконичный и интуитивно понятный. Мне очень нравиться видеть результат своей работы.
 
 
- 📫 Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-HelenKa-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:helenkainarova@gmail.com)
+ 📫 Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-HelenKA-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/https://t.me/HelenKai) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:helenkainarova@gmail.com)
 
 ---
 
@@ -41,20 +39,3 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" />&nbsp;
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />&nbsp;
 </div>
-
-
-<!-- --- -->
-<!-- 
-### ⚙️ GitHub статистика:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HelenaKai=github_dark" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HelenaKai&theme=github_dark" alt=""/>
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="(https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=vue&show_icons=true" />
-    </td>
-  </tr>
-</table> -->
