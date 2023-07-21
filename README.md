@@ -12,7 +12,7 @@
  Для меня важно реализовать законченный цифровой продукт заказчику — стильный, лаконичный и интуитивно понятный. Мне очень нравиться видеть результат своей работы.
 
 
- 📫 Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-HelenKA-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/https://t.me/HelenKai) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:helenkainarova@gmail.com)
+ 📫 Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-HelenKA-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/HelenKai) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:helenkainarova@gmail.com)
 
 ---
 
